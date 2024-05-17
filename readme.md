@@ -1,0 +1,1 @@
+go run cmd/test-server/main.go
